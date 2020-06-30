@@ -1,0 +1,17 @@
+.header {
+  background-color: #f4f6f7;
+}
+.header__nav {
+  display: flex;
+  justify-content: space-between;
+}
+.header__li {
+  list-style: none;
+}
+.header__hero {
+  display: flex;
+  justify-content: space-between;
+}
+.header__content {
+  flex-basis: calc(100% / 12 * 5);
+}
